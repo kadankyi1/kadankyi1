@@ -1,4 +1,5 @@
-# Hi there, I'm Dankyi Anno Kwaku <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />. <a href="https://stackoverflow.com/users/9577985/dankyi-anno-kwaku">!<img width="30px" src="https://aleen42.github.io/badges/src/stackoverflow.svg/></a>
+# Hi there, I'm Dankyi Anno Kwaku <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />. 
+<a href="https://stackoverflow.com/users/9577985/dankyi-anno-kwaku"><img width="30px" src="https://aleen42.github.io/badges/src/stackoverflow.svg"/></a>
 
 <img align="right" alt="GIF" height="160px" src="fishpott_icon_circle.png" />
 

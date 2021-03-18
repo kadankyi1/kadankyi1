@@ -3,8 +3,7 @@
 <img align="right" alt="GIF" height="160px" src="fishpott_icon_circle.png" />
 
 ## I’m a Full Stack Software Developer
-- 📚 You can view some of my projects on <a href="https://github.com/kadankyi1?tab=repositories">My Repositories</a>, 
-<a href="">![Android](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white) the Apple App Store</a> or Google PlayStore 
+- 📚 You can view some of my projects on <a href="https://play.google.com/store/apps/developer?id=FishPot+Inc&hl=en&gl=US">![Google](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white) </a>,  <a href="https://apps.apple.com/vg/developer/fishpot-company-limited/id1430795812">![Apple](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white) or <a href="https://github.com/kadankyi1?tab=repositories">![Google](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)</a>
 - 💪🏼 I ran a digital technology company called FishPot Company Limited. <a href="https://company.fishpott.com">View FishPot Company.</a>
 - I believe you will find our core service (in the making) exciting.  <a href="https://github.com/kadankyi1/fishpott_android">Read more about FishPott: Socio-commerce networking</a>
 
@@ -24,6 +23,6 @@
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![JQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=whit)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white)
 

@@ -1,6 +1,6 @@
 # Hi there, I'm Dankyi Anno Kwaku <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
 
-<img align="right" alt="GIF" height="160px" src="logo.png" />
+<img align="right" alt="GIF" height="160px" src="fishpott_icon_circle.png" />
 
 ## I’m a Full Stack Software Developer
 - 📚 You can view some of my projects on <a href="https://github.com/kadankyi1?tab=repositories">My Repositories</a>

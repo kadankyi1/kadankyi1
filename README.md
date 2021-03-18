@@ -1,10 +1,8 @@
 # Hi there, I'm Dankyi Anno Kwaku <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
 
-<img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
+<img align="right" alt="GIF" height="160px" src="logo.png" />
 
 ## I’m a Full Stack Software Developer
-
-- 👨‍💻  I build both web and mobile applications (simple or complex).
 - 📚 You can view some of my projects on <a href="https://github.com/kadankyi1?tab=repositories">My Repositories</a>
 - 💪🏼 I ran a digital technology company called FishPot Company Limited. <a href="https://company.fishpott.com">View FishPott Here</a>
 - I believe you will find our core service (in the making) exciting.  <a href="https://github.com/kadankyi1/fishpott_android">Read more about FishPott: Socio-commerce networking</a>

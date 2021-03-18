@@ -3,7 +3,8 @@
 <img align="right" alt="GIF" height="160px" src="fishpott_icon_circle.png" />
 
 ## I’m a Full Stack Software Developer
-- 📚 You can view some of my projects on <a href="https://github.com/kadankyi1?tab=repositories">My Repositories</a>
+- 📚 You can view some of my projects on <a href="https://github.com/kadankyi1?tab=repositories">My Repositories</a>, 
+<a href="">![Android](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white) the Apple App Store</a> or Google PlayStore 
 - 💪🏼 I ran a digital technology company called FishPot Company Limited. <a href="https://company.fishpott.com">View FishPot Company.</a>
 - I believe you will find our core service (in the making) exciting.  <a href="https://github.com/kadankyi1/fishpott_android">Read more about FishPott: Socio-commerce networking</a>
 

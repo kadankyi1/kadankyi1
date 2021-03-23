@@ -1,7 +1,5 @@
 # Hi there, I'm Dankyi Anno Kwaku. <img width="30px" src="https://media.tenor.com/images/3b388fe03da271d2674faf85eb7c3fcd/tenor.gif" />
 
-<img align="right" alt="GIF" height="160px" src="fishpott_icon_circle.png" />
-
 ## I’m a Full Stack Software Developer <a href="https://stackoverflow.com/users/9577985/dankyi-anno-kwaku"><img width="100px" src="https://aleen42.github.io/badges/src/stackoverflow.svg"/></a>
 - You can view some of my projects on <a href="https://play.google.com/store/apps/developer?id=FishPot+Inc&hl=en&gl=US">![Google](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white) </a>   <a href="https://apps.apple.com/vg/developer/fishpot-company-limited/id1430795812">![Apple](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white) <a href="https://github.com/kadankyi1?tab=repositories">![Google](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)</a>
 - I ran a digital technology company called FishPot Company Limited. <a href="https://company.fishpott.com">View FishPot Company.</a>
